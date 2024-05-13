@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rcsglobals
-- 👀 I’m interested in Development in ASP.net Core , python 
-- 🌱 I’m currently learning Power Bi and AI  
-- 💞️ I’m looking to collaborate on ASP.net with Power Bi  
+- 👋 Hi, We are @rcsglobals
+- 👀 we are interested in Development in ASP.net Core , python 
+- 🌱 We are currently learning Power Bi and AI  
+- 💞️ We are looking to collaborate on ASP.net with Power Bi  
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
